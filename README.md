@@ -1,3 +1,6 @@
+updated
+
+
 # Simple Notes App
 This is a simple notes app built with React and Django.
 
@@ -20,7 +23,7 @@ expose 8000 port
 
 3. Run the app
 ```
-docker run -d -p 8000:8000 notes-app:latest
+docker run -d -p 8000:8000 notes-app:latest 
 ```
 
 ## Nginx
